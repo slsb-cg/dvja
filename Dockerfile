@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM openjdk:16.0
 MAINTAINER Abhisek Datta <abhisek@appsecco.com>
 
 RUN apt-get update
